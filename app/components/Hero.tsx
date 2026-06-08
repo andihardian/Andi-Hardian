@@ -271,8 +271,6 @@ export default function Hero() {
             background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.12)',
             padding: '0.4rem 1rem', borderRadius: 100, marginBottom: '1.75rem',
           }}>
-            <span style={{ width: 7, height: 7, borderRadius: '50%', background: '#4ade80', boxShadow: '0 0 8px #4ade80' }} />
-            <span style={{ fontSize: '0.78rem', color: 'rgba(255,255,255,0.5)', letterSpacing: '0.02em' }}>Open to opportunities</span>
           </div>
 
           {/* Hi */}
