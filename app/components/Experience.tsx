@@ -36,7 +36,7 @@ export default function Experience() {
                 <h3 style={{ fontFamily: 'var(--sans)', fontSize: '1.1rem', fontWeight: 700, marginBottom: '0.2rem' }}>
                   IT Support &amp; Administrative Staff
                 </h3>
-                <p style={{ fontSize: '0.85rem', color: '#fff', fontWeight: 500 }}>PT Kaisar Auto Makmurindo</p>
+                <p style={{ fontSize: '0.85rem', color: '#fff', fontWeight: 500 }}>PT Kaisar </p>
                 <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', fontWeight: 400, marginTop: '0.15rem' }}>Batam, Kepulauan Riau</p>
               </div>
               <span style={{

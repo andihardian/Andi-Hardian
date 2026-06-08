@@ -281,7 +281,7 @@ export default function Hero() {
             color: 'rgba(255,255,255,0.4)', letterSpacing: '-0.01em',
             marginBottom: '0.2rem', fontStyle: 'italic',
           }}>
-            Hi! 👋
+            Hi!
           </p>
 
           {/* I'm Hardi */}
